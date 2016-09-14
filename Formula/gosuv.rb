@@ -2,9 +2,9 @@ class Gosuv < Formula
   desc ''
   homepage 'https://dl.equinox.io/shengxiang/gosuv'
 
-  url 'https://bin.equinox.io/a/gopAdNjEy7/gosuv-0.0.2-9-g50652d2-darwin-amd64.tar.gz'
-  sha256 '5064b1f14c3633679fce3bd9fd03c8727d259118df9a711a4cdb8bce38f81a36'
-  version '0.0.2-9-g50652d2'
+  url 'https://bin.equinox.io/a/a9Ya9W3kuiv/gosuv-0.0.2-10-g771e094-darwin-amd64.tar.gz'
+  sha256 '9cab89453bb8832fe693e4b29df23bcfe7bf9376e3753a2c2b0ad49bda3e6c1b'
+  version '0.0.2-10-g771e094'
 
   def install
     bin.install 'gosuv'
